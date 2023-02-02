@@ -1,2 +1,2 @@
-token = '5809516337:AAG3N-41ALJTeZ8FmkCalMBgE-O_9H9S15Q'
-bot_url = 't.me/intcSimpleBot'
+token = '6148065426:AAGRjCDrZmy3pBtOlYh8G43q_KQFM7iogmY'
+bot_url = 't.me/SimpleCourseBot'
